@@ -15,6 +15,16 @@
 
 [Features](#-key-features) • [Tech Stack](#-tech-stack) • [Architecture](#-architecture) • [Installation](#-installation) • [Mobile](#-mobile-deployment) • [Roadmap](#-roadmap)
 
+<br/>
+
+> [!NOTE]
+> 🔒 **This is a real-world, production-grade application.**
+> The source code is hosted in a **private repository** to protect intellectual property, but I am happy to provide access to:
+> - 👨‍💻 **Interviewers** — to review code quality, architecture, and commit history.
+> - 🤝 **Contributors** — if you're interested in collaborating on the project.
+>
+> **[Request Access](mailto:product.director@midsolution.id)**
+
 </div>
 
 ---
